@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Heba 👋</h1>
+<p align="center">
+QA & Test Automation Engineer · Selenium · Playwright · API Testing · CI/CD  
+</p>
 
-<!--
-**Heba-art/Heba-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
+- Test Analyst with 3+ years experience in **Agile** teams (Australia & New Zealand).
+- Preparing for **ISTQB Advanced – Test Automation Engineer (CTAL-TAE)**.
+- Passionate about building clean automation frameworks and API testing.
+- Open to **QA , Test Automation Engineer , Test Analyst**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+**Languages:** Java, C#, JavaScript, SQL, Python  
+**Automation Tools:** Selenium WebDriver, Playwright, RestAssured, Postman  
+**Frameworks:** TestNG, JUnit, NUnit, Cucumber/Karate  
+**DevOps:** GitHub Actions, Jenkins, Maven, Gradle, Docker (basics)  
+**Reporting:** Allure, Extent, Playwright Trace/Video
+
+---
+
+## 🚀 Featured Projects
+- **Selenium Java TestNG Framework** — POM, Data Driven, Parallel, Allure, CI/CD  
+- **Playwright C# Automation** — POM, Trace, Video, Parallel, Reports  
+- **RestAssured API Tests** — CRUD, Auth, Schema Validation, Allure Reports  
+- **Karate BDD UI+API** — Unified UI & API automation scenarios  
+- **Test Assets** — Sample Test Plans, Test Cases, and real Reports
+
+> 📌 Check pinned repositories below for full project details.
+
+---
+
+## 📜 Certifications
+- ISTQB Foundation Level (CTFL)
+- **ISTQB CTAL-TAE** *(in progress – Aug 2025 exam)*
+- Playwright C# (Udemy) — ongoing
+- Tricentis Tosca — exploring
+
+---
+
+## 📫 Let's Connect
+- LinkedIn: [linkedin.com/in/heba-al-rubaye-21180021b](https://www.linkedin.com/in/heba-al-rubaye-21180021b)
+- Location: Melbourne, Australia
+
+---
+
+⭐ **Tip:** If my work helps you, consider starring the repos!
