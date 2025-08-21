@@ -35,7 +35,7 @@ QA & Test Automation Engineer · Selenium · Playwright · API Testing · CI/CD
 
 ## 📜 Certifications
 - ISTQB Foundation Level (CTFL)
-- **ISTQB CTAL-TAE** *(in progress – Aug 2025 exam)*
+- **ISTQB CTAL-TAE**
 - Playwright C# (Udemy) — ongoing
 - Tricentis Tosca — exploring
 
