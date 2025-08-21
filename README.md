@@ -7,7 +7,7 @@ QA & Test Automation Engineer · Selenium · Playwright · API Testing · CI/CD
 
 ## 👩‍💻 About Me
 - Test Analyst with 3+ years experience in **Agile** teams (Australia & New Zealand).
-- Preparing for **ISTQB Advanced – Test Automation Engineer (CTAL-TAE)**.
+- I have **ISTQB Advanced – Test Automation Engineer (CTAL-TAE)**.
 - Passionate about building clean automation frameworks and API testing.
 - Open to **QA , Test Automation Engineer , Test Analyst**.
 
