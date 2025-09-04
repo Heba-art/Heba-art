@@ -31,7 +31,6 @@ QA & Test Automation Engineer · Selenium · Playwright · API Testing · CI/CD
 - **Karate BDD (UI + API)** — Unified UI & API Automation Scenarios with BDD Style  
 - **Test Assets** — Sample Test Plans, Test Cases, and Real Execution Reports  
 
-> 📌 Check pinned repositories below for full project details.
 
 ---
 
