@@ -14,6 +14,7 @@ QA & Test Automation Engineer · Selenium · Playwright · API Testing · CI/CD
 ---
 
 ## 🛠 Tech Stack
+
 **Languages:** Java, C#, JavaScript, SQL, Python  
 **Automation Tools:** Selenium WebDriver, Playwright, RestAssured, Postman  
 **Frameworks:** TestNG, JUnit, NUnit, Cucumber/Karate  
@@ -34,11 +35,13 @@ QA & Test Automation Engineer · Selenium · Playwright · API Testing · CI/CD
 
 ---
 
-## 📜 Certifications  
+## 📜 Certifications & Professional Development  
+
 - **ISTQB Foundation Level (CTFL)**  
 - **ISTQB Advanced Level – Test Automation Engineer (CTAL-TAE)**  
 - **Practical Projects** — Selenium, Playwright, API, BDD  
 - **Salesforce** — Exploring  
+
 ---
 
 ## 📫 Let's Connect
