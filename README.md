@@ -22,12 +22,13 @@ QA & Test Automation Engineer · Selenium · Playwright · API Testing · CI/CD
 
 ---
 
-## 🚀 Featured Projects
-- **Selenium Java TestNG Framework** — POM, Data Driven, Parallel, Allure, CI/CD  
-- **Playwright C# Automation** — POM, Trace, Video, Parallel, Reports  
-- **RestAssured API Tests** — CRUD, Auth, Schema Validation, Allure Reports  
-- **Karate BDD UI+API** — Unified UI & API automation scenarios  
-- **Test Assets** — Sample Test Plans, Test Cases, and real Reports
+## 🚀 Featured Projects  
+
+- **Selenium Java TestNG Framework** — POM, Data-Driven, Parallel Execution, Allure Reports, CI/CD Integration  
+- **Playwright C# Automation** — POM, Trace Viewer, Video Recording, Parallel Cross-Browser Testing, Reports  
+- **RestAssured API Tests** — CRUD Operations, Authentication, Schema Validation, Allure Reports  
+- **Karate BDD (UI + API)** — Unified UI & API Automation Scenarios with BDD Style  
+- **Test Assets** — Sample Test Plans, Test Cases, and Real Execution Reports  
 
 > 📌 Check pinned repositories below for full project details.
 
