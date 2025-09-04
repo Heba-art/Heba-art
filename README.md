@@ -35,6 +35,12 @@ QA & Test Automation Engineer · Selenium · Playwright · API Testing · CI/CD
 
 ---
 
+## 🎓 **Education**  
+- **Bachelor of Computer Science**  
+- **Bachelor of Control & Systems Engineering**
+  
+  ---
+  
 ## 📜 Certifications & Professional Development  
 
 - **ISTQB Foundation Level (CTFL)**  
